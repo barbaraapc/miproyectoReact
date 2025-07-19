@@ -12,3 +12,11 @@ Aqui podemos revisar, estan las tareas, distinguidas por color, ya que en rosado
 
 Aqui podemos ver que tambien se pueden filtrar por "pendientes" "completadas"
 ![captura2](image-5.png)
+
+La app realiza
+- Agregar nuevas tareas
+- Marcar tareas como completadas
+- Eliminar tareas
+- Asignar prioridades (Muy importante, Importante)
+- Guardado automático en el navegador (localStorage)
+
