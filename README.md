@@ -20,3 +20,4 @@ La app realiza
 - Asignar prioridades (Muy importante, Importante)
 - Guardado automático en el navegador (localStorage)
 
+link GitHub: https://github.com/barbaraapc/miproyectoReact.git
